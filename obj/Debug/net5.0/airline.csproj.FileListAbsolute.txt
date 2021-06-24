@@ -1,0 +1,16 @@
+C:\Users\glawless\nelnet-projects\airline\bin\Debug\net5.0\airline.exe
+C:\Users\glawless\nelnet-projects\airline\bin\Debug\net5.0\airline.deps.json
+C:\Users\glawless\nelnet-projects\airline\bin\Debug\net5.0\airline.runtimeconfig.json
+C:\Users\glawless\nelnet-projects\airline\bin\Debug\net5.0\airline.runtimeconfig.dev.json
+C:\Users\glawless\nelnet-projects\airline\bin\Debug\net5.0\airline.dll
+C:\Users\glawless\nelnet-projects\airline\bin\Debug\net5.0\ref\airline.dll
+C:\Users\glawless\nelnet-projects\airline\bin\Debug\net5.0\airline.pdb
+C:\Users\glawless\nelnet-projects\airline\obj\Debug\net5.0\airline.csproj.AssemblyReference.cache
+C:\Users\glawless\nelnet-projects\airline\obj\Debug\net5.0\airline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glawless\nelnet-projects\airline\obj\Debug\net5.0\airline.AssemblyInfoInputs.cache
+C:\Users\glawless\nelnet-projects\airline\obj\Debug\net5.0\airline.AssemblyInfo.cs
+C:\Users\glawless\nelnet-projects\airline\obj\Debug\net5.0\airline.csproj.CoreCompileInputs.cache
+C:\Users\glawless\nelnet-projects\airline\obj\Debug\net5.0\airline.dll
+C:\Users\glawless\nelnet-projects\airline\obj\Debug\net5.0\ref\airline.dll
+C:\Users\glawless\nelnet-projects\airline\obj\Debug\net5.0\airline.pdb
+C:\Users\glawless\nelnet-projects\airline\obj\Debug\net5.0\airline.genruntimeconfig.cache
